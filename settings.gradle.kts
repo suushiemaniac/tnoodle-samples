@@ -12,3 +12,4 @@ pluginManagement {
 
 include("tnoodle-android")
 include("tnoodle-js")
+include("tnoodle-mvp")
